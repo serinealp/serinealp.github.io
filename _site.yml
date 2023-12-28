@@ -1,7 +1,8 @@
 name: "college:refactored"
+output_dir: "docs"
 navbar:
-  title: "college:refactored"
-  left: 
+  title: "navigation"
+  left:
     - text: "Home"
       href: index.html
     - text: "Services"
@@ -10,7 +11,7 @@ navbar:
       href: contact.html
     - text: "About"
       href: about.html
-  right: 
+  right:
     - icon: fa-envelope fa-lg
       href: mailto:<mimialp3@gmail.com>
     - icon: fa-phone fa-lg
