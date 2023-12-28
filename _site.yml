@@ -1,15 +1,14 @@
 name: "college:refactored"
-output_dir: "docs"
 navbar:
   title: "college:refactored"
   left: 
-    - title: "Home"
+    - text: "Home"
       href: index.html
-    - title: "Services"
+    - text: "Services"
       href: service.html
-    - title: "Contact Me"
+    - text: "Contact Me"
       href: contact.html
-    - title: "About"
+    - text: "About"
       href: about.html
   right: 
     - icon: fa-envelope fa-lg
