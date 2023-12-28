@@ -1,0 +1,52 @@
+---
+title: "About Me"
+---
+## {.tabset .tabset-pills}
+
+### Meet Me: Serine Alp
+
+```{r echo=FALSE, out.width = "60%", out.height = "30%", fig.align = "center"}
+knitr::include_graphics("DSC_0968.jpg")
+```
+
+
+I spent my childhood and early adolescence growing up on college campuses across the US; my parents were both deeply invested in scientific research, and some of my earliest childhood memories are of wandering the labyrinth of halls and colossally, hideously tall buildings of the University of Oregon. I believe that this exposure to university environment at a young age, and affinity for giving (un)solicited advice to others is what sets me apart. I genuinley love love love searching for and over-analyzing colleges, their academics, their supplemental essays, student body, climate and geographical location, all to hopefully find the perfect match for **you.**
+
+
+
+### Recent Reads
+
+love love love books... remembering to update this going to be hard! 
+
+  - **Fluke** christopher moore
+  
+  - **The Solace of Leaving Early** haven kimmel
+  
+  - **The map of True Places** brunonia barry
+  
+  
+genuinely, these books are so so good - 200000/10 recommend!!! and if i'm remembering correctly, i got most of them from half priced books or other second-hand book stores. or - you can go to the library!!!!
+
+
+### For Funsies
+
+I'm actually quite a boring person - all I do is go to class, (usually - depending on the day tbh), go to work, do homework, study for exams, take said exams, do more homework, go to the store, more homework, lay in bed, not sleeping, doing more homework, drink tea, listen to gossip, eavesdrop to learn more gossip, studying.... need I say more ???
+
+The other day, I was catching up with a friend, and we were talking about another friend. the another friend is a very dedicated student, in the sense that everything he is doing right now with his life is with the intention of achieving his very specific (and longterm tbh) goal of becoming a trauma surgeon. commendable, but he does nothing else; he wakes up, goes to class, is semesters ahead in chemistry and biology (and i would be shocked if his gpa was lower than a 4.0), works in his lab for hours, does his actual job which is emt-ing, then probably goes home in the wee hours of the night (actually early the next morning) to do more homework. And the friend I was catching up said I was the same. And I said that unfortunately I am way way too all over the place for anything I am currently doing in the present moment to count towards my future career (and don't ask that that's going to be - I have no clue!)
+
+Anyways - here are some things about me:
+
+  - **favorite food:** ceasar salad
+  - **favorite color:** light grey
+  - **fav animal:** its gotta be between cows, orcas, and donkeys (specifically eeyore - he's very relatable)
+  - **in 10 years ...** i see myself one of three ways:
+      1. married rich - c'mon, i would love to marry rich simply to be able to design a house without money being a limitation. truly for the sole purpose of living out my architectural mastermind dreams.
+      2. nyc corporate girl who probably works in a bank or fintech and lowkey wants to move to the countryside
+      3. who knows, maybe i'll become a cardiothoracic surgeon
+  - **a place i want to visit:** ALASKA!!!! would absolutely LOVE to go on a long trek to every national park including gates of the arctic and denali!!!
+  - **fact:** when school starts, i am so neurotic about my daily outfits; i love love love clothes and fashion and **not** being an outfit repeater. but by no means would i ever call myself a fashionista. and try as i might, much to my own dismay, i unfortunately definitely frequently repeat outfits. oh well, it's **you** who's the outfit remember-er!! `here are some of the past semester:` (and please excuse the fact that I look so fed up in every pic. college will do that to a girly!!)
+```{r, echo=FALSE, out.width = "30%", out.height = "10%", fig.show = "hold", fig.align = "center"}
+knitr::include_graphics(c("m.jpeg","r.jpeg", "e.jpeg", "u.jpeg", "y.jpeg" ))
+```
+
+

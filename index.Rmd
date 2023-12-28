@@ -1,0 +1,39 @@
+---
+title: "college: refactored"
+---
+
+Hello, World!
+
+Welcome to `college: refactored` a re-imagined take to college admissions guidance and preparation! We pride ourselves with providing a new-age, post-covid perspective to the college admissions process, while enabling students to stay genuine to themselves. We cater to students; they are at the helm of the ship of the rest of their lives, and they should have the opportunity to set a course and navigate their ship via decisions made, beginning foremost with college. 
+
+For more information, toggle through the tabs. Hope you'll join us on this journey! 
+
+
+
+
+
+
+<div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+
+<div class="toast-header">
+  <strong class="me-auto">college: refactored</strong>
+  <small class="text-muted">11 mins ago</small>
+  <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+</div>
+
+<div class="toast-body">
+  Hello, world! This is a toast message.
+</div>
+</div>
+
+
+
+
+
+
+
+ 
+
+
+
+

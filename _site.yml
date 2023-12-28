@@ -1,0 +1,28 @@
+name: "college-refactored"
+output_dir: "docs"
+navbar:
+  left: 
+    - title: "Home"
+      href: index.html
+    - title: "Services"
+      href: service.html
+    - title: "Contact Me"
+      href: contact.html
+    - title: "About"
+      href: about.html
+  right: 
+    - icon: fa-envelope fa-lg
+      href: mailto:<mimialp3@gmail.com>
+    - icon: fa-phone fa-lg
+      href: tel:<7252665756>
+output:
+  html_document:
+    css: bootstrap.min.css
+    include: 
+      after_body: footer.html
+
+  
+  
+
+
+   

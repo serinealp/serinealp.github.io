@@ -1,0 +1,50 @@
+---
+title: "Services"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Foremost, our goal is to provide high quality college guidance to all teenagers, regardless of status in school, geographical location, or income and means available. If monetary assistance is needed, please let us know; we want to do all we can to help.
+
+
+We would love to work with absolutely anyone who is interested, regardless of where you are in the application process! Accordingly, we offer a little something for everyone; if you know where you're applying but writing isn't your strongest subject, essay guidance is for you! And likewise, if you're confident in your writing abilities but have no idea where to start with the application process, we can go all the way to the beginning and first narrow it down to what you might what to study! 
+
+
+<div class="card border-info mb-3" style="max-width: 30rem;">
+  <div class="card-header">general services:</div>
+  <div class="card-body">
+    - general college guidance
+    - college list
+    - creating an "activity resume"
+    - area of study exploration
+    - "common app" application guidance
+  </div>
+</div>
+
+<div class="card border-info mb-3" style="max-width: 30rem;">
+  <div class="card-header">for essays:</div>
+  <div class="card-body">
+    - essay guidance
+    - essay topic planning
+    - essay review and corrections
+    - personal essay vs supplementals
+  </div>
+</div>
+
+
+<div class="toast show" role="alert" aria-live="assertive" aria-atomic="true">
+  <div class="toast-header">
+    <strong class="me-auto">Bootstrap</strong>
+    <small>11 mins ago</small>
+    <button type="button" class="btn-close ms-2 mb-1" data-bs-dismiss="toast" aria-label="Close">
+      <span aria-hidden="true"></span>
+    </button>
+  </div>
+  <div class="toast-body">
+    Hello, world! This is a toast message.
+  </div>
+</div>
