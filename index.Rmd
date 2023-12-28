@@ -4,7 +4,7 @@ title: "college: refactored"
 
 Hello, World!
 
-Welcome to `college: refactored` a re-imagined take to college admissions guidance and preparation! We pride ourselves with providing a new-age, post-covid perspective to the college admissions process, while enabling students to stay genuine to themselves. We cater to students; they are at the helm of the ship of the rest of their lives, and they should have the opportunity to set a course and navigate their ship via decisions made, beginning foremost with college. 
+Welcome to **college: refactored**: a re-imagined take to college admissions guidance and preparation! We pride ourselves with providing a new-age, post-covid perspective to the college admissions process, while enabling students to stay genuine to themselves. We cater to students; they are at the helm of the ship of the rest of their lives, and they should have the opportunity to set a course and navigate their ship via decisions made, beginning foremost with college. 
 
 For more information, toggle through the tabs. Hope you'll join us on this journey! 
 

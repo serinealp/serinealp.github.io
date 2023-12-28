@@ -1,6 +1,7 @@
-name: "college-refactored"
+name: "college:refactored"
 output_dir: "docs"
 navbar:
+  title: "college:refactored"
   left: 
     - title: "Home"
       href: index.html
